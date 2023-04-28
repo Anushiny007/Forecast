@@ -1,0 +1,209 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\thanu\\Msc Uni\\Projects-for-Assignment\\ForecastApp\\Server\\ForecastApp.Server.csproj": {}
+  },
+  "projects": {
+    "D:\\thanu\\Msc Uni\\Projects-for-Assignment\\ForecastApp\\Client\\ForecastApp.Client.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\thanu\\Msc Uni\\Projects-for-Assignment\\ForecastApp\\Client\\ForecastApp.Client.csproj",
+        "projectName": "ForecastApp.Client",
+        "projectPath": "D:\\thanu\\Msc Uni\\Projects-for-Assignment\\ForecastApp\\Client\\ForecastApp.Client.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "D:\\thanu\\Msc Uni\\Projects-for-Assignment\\ForecastApp\\Client\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\thanu\\Msc Uni\\Projects-for-Assignment\\ForecastApp\\Shared\\ForecastApp.Shared.csproj": {
+                "projectPath": "D:\\thanu\\Msc Uni\\Projects-for-Assignment\\ForecastApp\\Shared\\ForecastApp.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Components.WebAssembly": {
+              "target": "Package",
+              "version": "[6.0.10, )"
+            },
+            "Microsoft.AspNetCore.Components.WebAssembly.DevServer": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.10, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "browser-wasm": {
+          "#import": []
+        }
+      }
+    },
+    "D:\\thanu\\Msc Uni\\Projects-for-Assignment\\ForecastApp\\Server\\ForecastApp.Server.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\thanu\\Msc Uni\\Projects-for-Assignment\\ForecastApp\\Server\\ForecastApp.Server.csproj",
+        "projectName": "ForecastApp.Server",
+        "projectPath": "D:\\thanu\\Msc Uni\\Projects-for-Assignment\\ForecastApp\\Server\\ForecastApp.Server.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "D:\\thanu\\Msc Uni\\Projects-for-Assignment\\ForecastApp\\Server\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\thanu\\Msc Uni\\Projects-for-Assignment\\ForecastApp\\Client\\ForecastApp.Client.csproj": {
+                "projectPath": "D:\\thanu\\Msc Uni\\Projects-for-Assignment\\ForecastApp\\Client\\ForecastApp.Client.csproj"
+              },
+              "D:\\thanu\\Msc Uni\\Projects-for-Assignment\\ForecastApp\\Shared\\ForecastApp.Shared.csproj": {
+                "projectPath": "D:\\thanu\\Msc Uni\\Projects-for-Assignment\\ForecastApp\\Shared\\ForecastApp.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Components.WebAssembly.Server": {
+              "target": "Package",
+              "version": "[6.0.10, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\thanu\\Msc Uni\\Projects-for-Assignment\\ForecastApp\\Shared\\ForecastApp.Shared.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\thanu\\Msc Uni\\Projects-for-Assignment\\ForecastApp\\Shared\\ForecastApp.Shared.csproj",
+        "projectName": "ForecastApp.Shared",
+        "projectPath": "D:\\thanu\\Msc Uni\\Projects-for-Assignment\\ForecastApp\\Shared\\ForecastApp.Shared.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "D:\\thanu\\Msc Uni\\Projects-for-Assignment\\ForecastApp\\Shared\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,12 @@
+D:\thanu\Msc Uni\Projects-for-Assignment\ForecastApp\Shared\bin\Debug\net6.0\ForecastApp.Shared.deps.json
+D:\thanu\Msc Uni\Projects-for-Assignment\ForecastApp\Shared\bin\Debug\net6.0\ForecastApp.Shared.dll
+D:\thanu\Msc Uni\Projects-for-Assignment\ForecastApp\Shared\bin\Debug\net6.0\ForecastApp.Shared.pdb
+D:\thanu\Msc Uni\Projects-for-Assignment\ForecastApp\Shared\obj\Debug\net6.0\ForecastApp.Shared.csproj.AssemblyReference.cache
+D:\thanu\Msc Uni\Projects-for-Assignment\ForecastApp\Shared\obj\Debug\net6.0\ForecastApp.Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\thanu\Msc Uni\Projects-for-Assignment\ForecastApp\Shared\obj\Debug\net6.0\ForecastApp.Shared.AssemblyInfoInputs.cache
+D:\thanu\Msc Uni\Projects-for-Assignment\ForecastApp\Shared\obj\Debug\net6.0\ForecastApp.Shared.AssemblyInfo.cs
+D:\thanu\Msc Uni\Projects-for-Assignment\ForecastApp\Shared\obj\Debug\net6.0\ForecastApp.Shared.csproj.CoreCompileInputs.cache
+D:\thanu\Msc Uni\Projects-for-Assignment\ForecastApp\Shared\obj\Debug\net6.0\ForecastApp.Shared.dll
+D:\thanu\Msc Uni\Projects-for-Assignment\ForecastApp\Shared\obj\Debug\net6.0\refint\ForecastApp.Shared.dll
+D:\thanu\Msc Uni\Projects-for-Assignment\ForecastApp\Shared\obj\Debug\net6.0\ForecastApp.Shared.pdb
+D:\thanu\Msc Uni\Projects-for-Assignment\ForecastApp\Shared\obj\Debug\net6.0\ref\ForecastApp.Shared.dll
